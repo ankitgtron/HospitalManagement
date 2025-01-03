@@ -106,7 +106,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Express.js Crash Course](https://www.youtube.com/watch?v=L72fhGm1tfE)  
   3. Integrate authentication forms in React.  
      - **Reading:** [React Forms Guide](https://reactjs.org/docs/forms.html)  
-     - **Video:** [React Forms Tutorial](https://www.youtube.com/watch?v=5Y4STV8bnK4)  
+     - **Video:** [React Forms Tutorial](https://www.youtube.com/watch?v=SdzMBWT2CDQ&t=593s)  
 
 - **Deliverables:**  
   - Fully functional authentication system.  
@@ -121,7 +121,7 @@ This project is structured to ensure a systematic and incremental development pr
      - **Video:** [Building REST APIs](https://www.youtube.com/watch?v=pKd0Rpw7O48)  
   2. Create React components to list doctors with filters for name and specialization.  
      - **Reading:** [React Components Guide](https://reactjs.org/docs/components-and-props.html)  
-     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=4pO-HcG2igk)  
+     - **Video:** [React Component Tutorial](https://www.youtube.com/watch?v=S4VH8hddg8c&t=431s)  
 
 - **Deliverables:**  
   - Doctor listing page with search and filter functionality.  
@@ -148,10 +148,10 @@ This project is structured to ensure a systematic and incremental development pr
 - **Tasks:**  
   1. Set up Stripe for secure payment processing.  
      - **Reading:** [Stripe API Documentation](https://stripe.com/docs/api)  
-     - **Video:** [Stripe Integration Tutorial](https://www.youtube.com/watch?v=gfkTfcpWqAY)  
+     - **Video:** [Stripe Integration Tutorial](https://www.youtube.com/watch?v=lbEFSP1WAv0&t=26s)  
   2. Deploy the application to Netlify or Heroku.  
      - **Reading:** [Netlify Deployment Guide](https://docs.netlify.com/)  
-     - **Video:** [Deploying MERN Apps](https://www.youtube.com/watch?v=KKyag6t98g8)  
+     - **Video:** [Deploying MERN Apps](https://www.youtube.com/watch?v=22Rywce_kcg&t=154s)  
 
 - **Deliverables:**  
   - Fully deployed Hospital Management System accessible online.  
